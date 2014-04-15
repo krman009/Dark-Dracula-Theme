@@ -14,3 +14,12 @@ A Sublime Text (2) color theme. Just Changed background color and lineHighlight 
 ---------------
 
 By the way, I am on [Twitter](https://twitter.com/kmandalwala) and I blog at [SeeBeeTee](SeeBeeTee.com).
+
+---------------
+
+### How to install it?  
+I think you just have to `clone` the repo to the `packages folder` in sublime text.
+
+```bash
+$ git clone https://github.com/krman009/Dark-Dracula-Theme.git
+```
