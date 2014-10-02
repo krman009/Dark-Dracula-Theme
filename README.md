@@ -19,5 +19,5 @@ I think you just have to `clone` the repo to the `Packages` folder of your Subli
 $ git clone https://github.com/krman009/Dark-Dracula-Theme.git
 ```
 
-### Use?
+### How to select the theme? (Probably you already know)
 Just choose it from the `Preferences -> Color Scheme` Context Menu.
