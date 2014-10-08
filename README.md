@@ -20,4 +20,4 @@ $ git clone https://github.com/krman009/Dark-Dracula-Theme.git
 ```
 
 ### How to select the theme? (Probably you already know)
-Just choose it from the `Preferences -> Color Scheme` Context Menu.
+Just select it from the `Preferences -> Color Scheme` Context Menu.
