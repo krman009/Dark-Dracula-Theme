@@ -1,10 +1,10 @@
 Dark-Dracula-Theme
 ==================
 
-A Sublime Text (2) color theme. Just Changed background color and lineHighlight color in Dracula Theme (Which is developed by [Zeno Rocha](https://twitter.com/zenorocha "Twitter handle of Zeno Rocha")).
+A Sublime Text (2) color theme. Just Changed `background color` and `lineHighlight color` in `Dracula Theme` (Which is developed by [Zeno Rocha](https://twitter.com/zenorocha "Twitter handle of Zeno Rocha")).
 
-Actually I've made it because I want to use it with `Soda Dark Theme`.
-In which, I think more dark background will be better to see, Thus I've changed some colors and applied it.
+Actually I've made it because I want to use it with [Seti_UI](https://sublime.wbond.net/packages/Seti_UI).
+In which, I think Dark background will be better to see, Thus I've changed some colors and applied it.
 
 ---------------
 
